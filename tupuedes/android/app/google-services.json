@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "526649170399",
+    "project_id": "tupuedes-c687b",
+    "storage_bucket": "tupuedes-c687b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526649170399:android:3ae05dcb368e7fad8c0c6a",
+        "android_client_info": {
+          "package_name": "com.example.sport_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmNrrSnfgplTCdsxupXsaQFuMSu8bay5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526649170399:android:0961f90b287a1e578c0c6a",
+        "android_client_info": {
+          "package_name": "com.example.tupuedes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmNrrSnfgplTCdsxupXsaQFuMSu8bay5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
